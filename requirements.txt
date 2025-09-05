@@ -1,2 +1,2 @@
 Flask
-ultralytics
+ultralytics==8.3.115
